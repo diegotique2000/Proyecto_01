@@ -1,0 +1,42 @@
+[33mcommit daa648ed3ba30ecd602fdb9cd34c0b11f0fd331f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: d360635 98302e0
+Author: Diego <diegor.data@gmail.com>
+Date:   Tue May 9 15:06:42 2023 -0500
+
+    Agregamos un nuevo parrafo
+
+[33mcommit 98302e0967d4b8a94e8e7fede9edfa74e5954f1f[m[33m ([m[1;32mramahead[m[33m)[m
+Author: Diego <diegor.data@gmail.com>
+Date:   Tue May 9 13:58:41 2023 -0500
+
+    Quitamos una linea
+
+[33mcommit b3759aaf21d855fa65e8591e8acf2214051863c0[m
+Author: Diego <diegor.data@gmail.com>
+Date:   Tue May 9 13:52:35 2023 -0500
+
+    Inserte texto en el body
+
+[33mcommit 68ea8f308d7d65ce3798970e64ab9dfaf5e540e7[m
+Author: Diego <diegor.data@gmail.com>
+Date:   Tue May 9 13:45:27 2023 -0500
+
+    Agrego nuevo archivo git
+
+[33mcommit d3606359f19aa8cac297702e4d914686a8f143c0[m
+Author: Diego <diegor.data@gmail.com>
+Date:   Tue May 9 13:24:25 2023 -0500
+
+    Agregamos una nueva linea
+
+[33mcommit 04983168eaa075a0bb38a42f1aea2b0a7b296a59[m
+Author: Diego <diegor.data@gmail.com>
+Date:   Tue May 9 13:12:44 2023 -0500
+
+    Estructura html5
+
+[33mcommit e1382727fc75ae26a7845cfa90f1f328cd3b4f42[m
+Author: Diego <diegor.data@gmail.com>
+Date:   Tue May 9 12:48:10 2023 -0500
+
+    Estructura html5
